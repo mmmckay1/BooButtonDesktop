@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "A big red button that boos you.",
   "author": "mmckay",
+  "license": "MIT",
   "main": "main.js",
   "private": true,
   "scripts": {
