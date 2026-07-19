@@ -1,8 +1,8 @@
 # Boo Button
 
-A desktop app with one job: a big red button in the middle of a white screen. Press it, and it boos you.
+A desktop app.  You press it, it boos.  Use it to live our your best hater lifestyle.
 
-Built with [Electron](https://www.electronjs.org/). Also available as a [mobile app](https://github.com/mmmckay1/BooButton).
+Built with [Electron](https://www.electronjs.org/).
 
 ## Download
 
@@ -27,7 +27,7 @@ Produces a Windows installer in `release/`. See [package.json](package.json) for
 
 ## Privacy
 
-Boo Button collects no data of any kind. See [PRIVACY.md](PRIVACY.md).
+Boo Button collects no data of any kind. What would a button even need data for?  See [PRIVACY.md](PRIVACY.md).
 
 ## Security
 
