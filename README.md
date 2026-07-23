@@ -2,8 +2,6 @@
 
 A desktop app.  You press it, it boos.  Use it to live our your best hater lifestyle.
 
-Built with [Electron](https://www.electronjs.org/).
-
 ## Download
 
 Grab the latest Windows installer from the [Releases page](https://github.com/mmmckay1/BooButtonDesktop/releases/latest).
